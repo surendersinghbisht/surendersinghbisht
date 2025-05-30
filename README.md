@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on: an AI-powered chatbot for customer support using Python and LangChain<br>
+👯 I’m looking to collaborate on: open-source machine learning projects or cool Python tools<br>
+🌱 I’m currently learning: new AI tools and technologies<br>
+💬 Ask me about: full-stack web development and its frameworks<br>
+⚡ Fun fact: i can run 100 m under 11 sec and i am pretty good at football.<br>
 
 
 ## 🌐 Socials:
