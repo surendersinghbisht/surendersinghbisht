@@ -1,10 +1,6 @@
-# 💫 About Me:
+# 💫 Hello World!, I'm Surender, a Indian Web Developer 👋🏼:
 
-🔭 I’m currently working on: an AI-powered chatbot for customer support using Python and LangChain<br>
-👯 I’m looking to collaborate on: open-source machine learning projects or cool Python tools<br>
-🌱 I’m currently learning: new AI tools and technologies<br>
-💬 Ask me about: full-stack web development and its frameworks<br>
-⚡ Fun fact: i can run 100 m under 11 sec and i am pretty good at football.<br>
+🛜 currently working on my own [webpage](https://surendersinghdopefolio.netlify.app/)<br>👨🏼‍🎓 Studying Computer Science at Uttarakhand Technical University.<br>👨🏼‍💻 working as a web developer since 2022 <br>
 
 ## 🌐 Socials:
 
@@ -27,6 +23,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/surendersinghbisht/surendersinghbisht/output/github-snake.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
