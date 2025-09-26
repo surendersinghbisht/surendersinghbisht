@@ -1,7 +1,6 @@
-# 💫 Hello World!, I'm Surender, a Indian Web Developer 👋🏼:
+# 💫 Hello World!, I'm Surender, a Indian Software Engineer 👋🏼:
 
-🛜 currently working on my own [webpage](https://surendersinghdopefolio.netlify.app/)<br>👨🏼‍🎓 Studying Computer Science at Uttarakhand Technical University.<br>👨🏼‍💻 working as a web developer since 2023
-<br>
+🛜 currently working on my own [webpage](https://surendersinghdopefolio.netlify.app/)<br>
 
 ## 🌐 Socials:
 
