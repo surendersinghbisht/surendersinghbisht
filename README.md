@@ -1,6 +1,7 @@
 # 💫 Hello World!, I'm Surender, a Indian Software Engineer 👋🏼:
 
-🛜 currently working on my own [webpage](https://surendersinghdopefolio.netlify.app/)<br>
+🛜Full Stack Developer | Crafting Dynamic User Experiences & Robust Backend Solutions
+currently working on my own [webpage](https://surendersinghdopefolio.netlify.app/)<br>
 
 ## 🌐 Socials:
 
